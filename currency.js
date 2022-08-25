@@ -16,7 +16,7 @@ async function test() {
     method: "GET",
     redirect: "follow",
     headers: {
-      apikey: "HPXZIeTp0rLLutFx5OQ0m9C35KbGlJ4P",
+      apikey: "",
     },
   });
 

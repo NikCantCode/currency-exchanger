@@ -23,3 +23,13 @@
 .title-styling {
     font-size: 4vh;
 }
+
+.btn-styling {
+    background-color: black;
+    color: white;
+}
+
+.btn-styling:hover {
+    background-color: orangered;
+    color: white;
+}

@@ -18,7 +18,7 @@ async function test() {
     method: "GET",
     redirect: "follow",
     headers: {
-      apikey: "",
+      apikey: process.env.API_KEY,
     },
   });
 
